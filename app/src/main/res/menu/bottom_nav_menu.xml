@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/translationFragment"
+        android:icon="@drawable/baseline_translate_24"
+        android:title="@string/translate_bottom_item" />
+
+    <item
+        android:id="@+id/translationHistoryFragment"
+        android:icon="@drawable/baseline_star_24"
+        android:title="@string/favourite_bottom_item" />
+
+
+</menu>

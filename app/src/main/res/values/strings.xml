@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TranslationApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="translate_button_name">Translate</string>
+    <string name="reverseButtonDescription">Reverse translation</string>
+    <string name="translate_bottom_item">Translate</string>
+    <string name="favourite_bottom_item">Favourites</string>
+    <string name="text_hint">Enter text</string>
+    <string name="unknown_error">An unknown error occurred</string>
+    <string name="unknown_definition_error">Error. Can not find definition on inputted word</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="delete_from_favourites">Delete from favourites</string>
+    <string name="perhapsMeanMessage">Perhaps you meant:</string>
+    <string name="cant_find_binding_error">Cant find binding because its null</string>
+</resources>
